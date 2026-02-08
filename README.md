@@ -6,6 +6,8 @@ The game generates a sequence of colors and the player must repeat the pattern c
 <hr>
 🚀 How It Works
 
+<br>
+
 Press any key to start the game.
 
 A color will flash — remember it.
@@ -27,6 +29,7 @@ JavaScript
 jQuery
 <hr>
 📂 Features
+<br>
 
 Increasing difficulty every level
 
@@ -37,6 +40,7 @@ Button press animation
 Game over feedback and restart system
 <hr>
 ▶️ Running the Project
+<br>
 
 Download or clone the repository
 
@@ -45,6 +49,7 @@ Open index.html in your browser
 Press any key to start playing
 <hr>
 🎯 Goal
+<br>
 
 Test and improve your memory by repeating the correct color sequence as long as possible!
 <hr>
