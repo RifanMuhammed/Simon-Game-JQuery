@@ -66,3 +66,6 @@ Press any key to start playing
 🎯 Goal
 
 Test and improve your memory by repeating the correct color sequence as long as possible!
+
+<hr>
+
