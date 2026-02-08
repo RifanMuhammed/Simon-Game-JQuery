@@ -1,4 +1,4 @@
-🎮<h1> Simon Game (jQuery)
+🎮 Simon Game (jQuery)
 
 A simple browser-based memory game inspired by the classic Simon Game.
 The game generates a sequence of colors and the player must repeat the pattern correctly to progress to the next level.
