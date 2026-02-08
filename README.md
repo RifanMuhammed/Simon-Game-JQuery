@@ -18,6 +18,10 @@ Each level adds a new color to the sequence.
 
 Make a mistake → Game Over and restart.
 
+
+<hr>
+
+
 🛠 Built With
 
 HTML
@@ -27,6 +31,10 @@ CSS
 JavaScript
 
 jQuery
+
+
+<hr>
+
 
 📂 Features
 
@@ -38,6 +46,12 @@ Button press animation
 
 Game over feedback and restart system
 
+
+
+<hr>
+
+
+
 ▶️ Running the Project
 
 Download or clone the repository
@@ -45,6 +59,9 @@ Download or clone the repository
 Open index.html in your browser
 
 Press any key to start playing
+<hr>
+
+
 
 🎯 Goal
 
